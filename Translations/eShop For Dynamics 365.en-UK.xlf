@@ -1,0 +1,2448 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-UK" original="eShop For Dynamics 365" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1900.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="body" datatype="resx">
+        <trans-unit id="Table 3063941098 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Primary Key</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 1322089947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Customer Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Web Customer Code</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 1761868407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User No. Series</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:User No. Series</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 2887764518 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop URL</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:eShop URL</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 1984688473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Web Service URL</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:eShop Web Service URL</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 3748697305 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nav Web Service URL</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Nav Web Service URL</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 682390464 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>License Key</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:License Key</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 1601559800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category No. Series</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Category No. Series</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 1485713719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Admin URL</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:eShop Admin URL</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 2150674326 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Browser Addin Exists</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Browser Addin Exists</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 779387940 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Customer No. Series</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Web Customer No. Series</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 3709500008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gift Card GL No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Gift Card GL No.</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 1853580091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Coupon Code GL No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Web Coupon Code GL No.</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 3194139897 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Customer Bus Posting Group</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Web Customer Bus Posting Group</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 4035159493 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Customer Posting group</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Web Customer Posting group</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 2996605243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Customer Payment Method</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Web Customer Payment Method</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 834228215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Customer Template</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:eShop Customer Template</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 2557656626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quote No. Series</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Quote No. Series</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 622105442 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Shipping GL No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Web Shipping GL No.</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 3728982139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Tax GL No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Web Tax GL No.</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 1530160392 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Inventory Location</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Default Inventory Location</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 696722477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Available Inventory</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Available Inventory</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 243150021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Path</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Report Path</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 1545028652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Template</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Shipment Template</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 1867222193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sender E-Mail ID</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Sender E-Mail ID</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 2124372217 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default SalesPerson E-Mail</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Default SalesPerson E-Mail</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 3046719127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Shipment Mail</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Send Shipment Mail</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 1861902745 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Image Path</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Item Image Path</note>
+        </trans-unit>
+        <trans-unit id="Table 3063941098 - Field 2927009762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Service URL</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Setup - Field:Web Service URL</note>
+        </trans-unit>
+        <trans-unit id="Page 3063941098 - Control 2887764518 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop URL</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Setup - Control:eShop URL</note>
+        </trans-unit>
+        <trans-unit id="Page 3063941098 - Control 3997336476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Name</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Setup - Control:Company Name</note>
+        </trans-unit>
+        <trans-unit id="Page 3063941098 - Control 1204706759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ERP License No</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Setup - Control:ERP License No</note>
+        </trans-unit>
+        <trans-unit id="Page 3063941098 - Action 3783689332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mail Templates</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Setup - Action:&lt;Action4&gt;</note>
+        </trans-unit>
+        <trans-unit id="Page 3063941098 - Action 4289581816 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approval Mail Template</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Setup - Action:&lt;Action22&gt;</note>
+        </trans-unit>
+        <trans-unit id="Page 3063941098 - Action 2420626615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Setup - Action:&lt;Action23&gt;</note>
+        </trans-unit>
+        <trans-unit id="Page 3063941098 - Action 645056606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E&amp;xport</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Setup - Action:&lt;Action24&gt;</note>
+        </trans-unit>
+        <trans-unit id="Page 3063941098 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you replace %1</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Setup - GlobalVariable:Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 3063941098 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you replace %1</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Setup - GlobalVariable:Text003</note>
+        </trans-unit>
+        <trans-unit id="Table 898108013 - Field 2138558048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UserID</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Users - Field:UserID</note>
+        </trans-unit>
+        <trans-unit id="Table 898108013 - Field 1285973296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Users - Field:Email</note>
+        </trans-unit>
+        <trans-unit id="Table 898108013 - Field 3444679095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>First Name</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Users - Field:First Name</note>
+        </trans-unit>
+        <trans-unit id="Table 898108013 - Field 2575460289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Users - Field:Password</note>
+        </trans-unit>
+        <trans-unit id="Table 898108013 - Field 1448674035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Type</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Users - Field:User Type</note>
+        </trans-unit>
+        <trans-unit id="Table 898108013 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Users - Field:No.</note>
+        </trans-unit>
+        <trans-unit id="Table 898108013 - Field 3543129988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Users - Field:Blocked</note>
+        </trans-unit>
+        <trans-unit id="Table 898108013 - Field 2500892784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created Date</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Users - Field:Created Date</note>
+        </trans-unit>
+        <trans-unit id="Table 898108013 - Field 2626717425 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Modified Date</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Users - Field:Last Modified Date</note>
+        </trans-unit>
+        <trans-unit id="Table 898108013 - Field 951701677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contact Customer No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Users - Field:Contact Customer No.</note>
+        </trans-unit>
+        <trans-unit id="Table 898108013 - Field 3590917916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created on eShop</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Users - Field:Created on eShop</note>
+        </trans-unit>
+        <trans-unit id="Table 898108013 - Field 4068742839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Name</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Users - Field:Last Name</note>
+        </trans-unit>
+        <trans-unit id="Table 898108013 - Field 1910172496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Enabled</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Users - Field:eShop Enabled</note>
+        </trans-unit>
+        <trans-unit id="Table 898108013 - Field 3041953176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop ID</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Users - Field:eShop ID</note>
+        </trans-unit>
+        <trans-unit id="Table 898108013 - Field 2039823056 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Published Date</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Users - Field:Published Date</note>
+        </trans-unit>
+        <trans-unit id="Table 898108013 - Field 2396700165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NeedUpdate</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Users - Field:NeedUpdate</note>
+        </trans-unit>
+        <trans-unit id="Table 898108013 - Field 717706197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Permission Type</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Users - Field:Permission Type</note>
+        </trans-unit>
+        <trans-unit id="Page 898108013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Users</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Users - Page:eShop Users</note>
+        </trans-unit>
+        <trans-unit id="Page 898108013 - Action 1318087755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Users - Action:&lt;Action1000000015&gt;</note>
+        </trans-unit>
+        <trans-unit id="Page 898108013 - Action 367086139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Publish</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Users - Action:Publish</note>
+        </trans-unit>
+        <trans-unit id="Page 898108013 - Action 1169413635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Users - Action:update</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 366917023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category ID</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Category ID</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Name</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 1323843587 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Category ID</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Parent Category ID</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 1926771168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Display Order</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Display Order</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Description</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 355064393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Meta Keywords</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Meta Keywords</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 3470760573 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Meta Description</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Meta Description</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 1910172496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Enabled</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:eShop Enabled</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 3556717713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sorting Text</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Sorting Text</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 3299771246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sorting</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Sorting</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 3041953176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop ID</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:eShop ID</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 2039823056 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Published Date</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Published Date</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 1037119892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Category Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Item Category Code</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 1789400218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Level</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Level</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 1503536890 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Sorting</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:New Sorting</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 2867916074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variant 1</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Variant 1</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 954826223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variant 2</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Variant 2</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 1592522840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variant 3</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Variant 3</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 486038629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variant 4</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Variant 4</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 1123735246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variant 5</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Variant 5</note>
+        </trans-unit>
+        <trans-unit id="Table 2791383993 - Field 3505612691 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variant 6</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Categories - Field:Variant 6</note>
+        </trans-unit>
+        <trans-unit id="Table 3326398354 - Field 4038995315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attribute Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Attributes - Field:Attribute Code</note>
+        </trans-unit>
+        <trans-unit id="Table 3326398354 - Field 2006108605 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attribute Name</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Attributes - Field:Attribute Name</note>
+        </trans-unit>
+        <trans-unit id="Table 4099829509 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Item Attributes - Field:Item No.</note>
+        </trans-unit>
+        <trans-unit id="Table 4099829509 - Field 4038995315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attribute Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Item Attributes - Field:Attribute Code</note>
+        </trans-unit>
+        <trans-unit id="Table 4099829509 - Field 2006108605 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attribute Name</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Item Attributes - Field:Attribute Name</note>
+        </trans-unit>
+        <trans-unit id="Table 2653787854 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Discount Codes - Field:Document Type</note>
+        </trans-unit>
+        <trans-unit id="Table 2653787854 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Discount Codes - Field:Document No.</note>
+        </trans-unit>
+        <trans-unit id="Table 2653787854 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Discount Codes - Field:Line No.</note>
+        </trans-unit>
+        <trans-unit id="Table 2653787854 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Discount Codes - Field:Type</note>
+        </trans-unit>
+        <trans-unit id="Table 2653787854 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Discount Codes - Field:Code</note>
+        </trans-unit>
+        <trans-unit id="Table 2653787854 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Discount Codes - Field:Amount</note>
+        </trans-unit>
+        <trans-unit id="Table 996286230 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Cue - Field:Primary Key</note>
+        </trans-unit>
+        <trans-unit id="Table 996286230 - Field 2744844156 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Quotes - Open</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Cue - Field:Sales Quotes - Open</note>
+        </trans-unit>
+        <trans-unit id="Table 996286230 - Field 2839032808 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Orders - Open</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Cue - Field:Sales Orders - Open</note>
+        </trans-unit>
+        <trans-unit id="Table 996286230 - Field 650953086 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ready to Ship</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Cue - Field:Ready to Ship</note>
+        </trans-unit>
+        <trans-unit id="Table 996286230 - Field 4275459808 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delayed</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Cue - Field:Delayed</note>
+        </trans-unit>
+        <trans-unit id="Table 996286230 - Field 547857757 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return Orders - All</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Cue - Field:Sales Return Orders - All</note>
+        </trans-unit>
+        <trans-unit id="Table 996286230 - Field 2554536364 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Credit Memos - All</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Cue - Field:Sales Credit Memos - All</note>
+        </trans-unit>
+        <trans-unit id="Table 996286230 - Field 3416448119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Partially Shipped</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Cue - Field:Partially Shipped</note>
+        </trans-unit>
+        <trans-unit id="Table 996286230 - Field 995090288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Filter</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Cue - Field:Date Filter</note>
+        </trans-unit>
+        <trans-unit id="Table 996286230 - Field 346980474 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Filter2</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Cue - Field:Date Filter2</note>
+        </trans-unit>
+        <trans-unit id="Table 996286230 - Field 1944528408 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>B2C Customers</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Cue - Field:B2C Customers</note>
+        </trans-unit>
+        <trans-unit id="Table 996286230 - Field 296886488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Orders</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Cue - Field:eShop Orders</note>
+        </trans-unit>
+        <trans-unit id="Table 996286230 - Field 2216680428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Quotes</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Cue - Field:eShop Quotes</note>
+        </trans-unit>
+        <trans-unit id="Table 4286076286 - Field 2748392062 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>State Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Taxable States - Field:State Code</note>
+        </trans-unit>
+        <trans-unit id="Table 4286076286 - Field 2824766852 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>State Name</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Taxable States - Field:State Name</note>
+        </trans-unit>
+        <trans-unit id="Table 4286076286 - Field 53839102 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Liable</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Taxable States - Field:Tax Liable</note>
+        </trans-unit>
+        <trans-unit id="Table 4286076286 - Field 305562489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Area Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Taxable States - Field:Tax Area Code</note>
+        </trans-unit>
+        <trans-unit id="Table 4286076286 - Field 509464483 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Template Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Taxable States - Field:Customer Template Code</note>
+        </trans-unit>
+        <trans-unit id="Table 4286076286 - Field 966740350 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Taxable States - Field:Payment Terms Code</note>
+        </trans-unit>
+        <trans-unit id="Table 4286076286 - Field 3855271124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Method Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Taxable States - Field:Payment Method Code</note>
+        </trans-unit>
+        <trans-unit id="Page 4286076286 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Taxable States</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Taxable States - Page:eShop Taxable States</note>
+        </trans-unit>
+        <trans-unit id="Table 450819322 - Field 3464940271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coupon Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eSHop Coupon Setup - Field:Coupon Code</note>
+        </trans-unit>
+        <trans-unit id="Table 450819322 - Field 2415100994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coupon Description</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eSHop Coupon Setup - Field:Coupon Description</note>
+        </trans-unit>
+        <trans-unit id="Table 450819322 - Field 1787533380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coupon Type</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eSHop Coupon Setup - Field:Coupon Type</note>
+        </trans-unit>
+        <trans-unit id="Table 450819322 - Field 1406664548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Type</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eSHop Coupon Setup - Field:Sales Type</note>
+        </trans-unit>
+        <trans-unit id="Table 450819322 - Field 231418639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eSHop Coupon Setup - Field:Sales Code</note>
+        </trans-unit>
+        <trans-unit id="Table 450819322 - Field 3341728820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qualifier Type</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eSHop Coupon Setup - Field:Qualifier Type</note>
+        </trans-unit>
+        <trans-unit id="Table 450819322 - Field 919575039 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qualifier Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eSHop Coupon Setup - Field:Qualifier Code</note>
+        </trans-unit>
+        <trans-unit id="Table 450819322 - Field 1287002274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Min. Qty.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eSHop Coupon Setup - Field:Min. Qty.</note>
+        </trans-unit>
+        <trans-unit id="Table 450819322 - Field 1154156169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Promo Type</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eSHop Coupon Setup - Field:Promo Type</note>
+        </trans-unit>
+        <trans-unit id="Table 450819322 - Field 1608737918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Promo Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eSHop Coupon Setup - Field:Promo Code</note>
+        </trans-unit>
+        <trans-unit id="Table 450819322 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eSHop Coupon Setup - Field:Quantity</note>
+        </trans-unit>
+        <trans-unit id="Table 450819322 - Field 3310956332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eSHop Coupon Setup - Field:Discount %</note>
+        </trans-unit>
+        <trans-unit id="Table 450819322 - Field 2673259715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount $</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eSHop Coupon Setup - Field:Discount $</note>
+        </trans-unit>
+        <trans-unit id="Table 450819322 - Field 474480784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eSHop Coupon Setup - Field:Start Date</note>
+        </trans-unit>
+        <trans-unit id="Table 450819322 - Field 2649176925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eSHop Coupon Setup - Field:End Date</note>
+        </trans-unit>
+        <trans-unit id="Table 201047808 - Field 1272245069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report ID</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Reports - Field:Report ID</note>
+        </trans-unit>
+        <trans-unit id="Table 201047808 - Field 4101026147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Name</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Reports - Field:Report Name</note>
+        </trans-unit>
+        <trans-unit id="Table 201047808 - Field 474480784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Reports - Field:Start Date</note>
+        </trans-unit>
+        <trans-unit id="Table 201047808 - Field 2649176925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Reports - Field:End Date</note>
+        </trans-unit>
+        <trans-unit id="Table 201047808 - Field 1448674035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Type</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Reports - Field:User Type</note>
+        </trans-unit>
+        <trans-unit id="Table 201047808 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Reports - Field:User ID</note>
+        </trans-unit>
+        <trans-unit id="Table 201047808 - Field 42335026 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Link</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Reports - Field:Report Link</note>
+        </trans-unit>
+        <trans-unit id="Table 201047808 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Reports - Field:Customer No.</note>
+        </trans-unit>
+        <trans-unit id="Table 201047808 - Field 1136275244 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SalesPerson Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Reports - Field:SalesPerson Code</note>
+        </trans-unit>
+        <trans-unit id="Table 201047808 - Field 3837890622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Doc No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Reports - Field:External Doc No.</note>
+        </trans-unit>
+        <trans-unit id="Page 201047808 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Reports</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Reports - Page:eShop Reports</note>
+        </trans-unit>
+        <trans-unit id="Table 1098955493 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Variations - Field:Item No.</note>
+        </trans-unit>
+        <trans-unit id="Table 1098955493 - Field 4038995315 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>" ",Attribute1,Attribute2,Attribute3,"Attribute4 ","Attribute5 ",Attribute6</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Variations - Field:Attribute Code</note>
+        </trans-unit>
+        <trans-unit id="Table 1098955493 - Field 4038995315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attribute Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Variations - Field:Attribute Code</note>
+        </trans-unit>
+        <trans-unit id="Table 1098955493 - Field 2709262848 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attribute Type</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Variations - Field:Attribute Type</note>
+        </trans-unit>
+        <trans-unit id="Table 1098955493 - Field 2887840001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attribute Value</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Variations - Field:Attribute Value</note>
+        </trans-unit>
+        <trans-unit id="Table 1098955493 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Variations - Field:Description</note>
+        </trans-unit>
+        <trans-unit id="Table 3096202719 - Field 1838277825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attribute Types</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Attribute Type - Field:Attribute Types</note>
+        </trans-unit>
+        <trans-unit id="Table 3183629082 - Field 2709262848 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attribute Type</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Attribute Value - Field:Attribute Type</note>
+        </trans-unit>
+        <trans-unit id="Table 3183629082 - Field 2887840001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attribute Value</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Attribute Value - Field:Attribute Value</note>
+        </trans-unit>
+        <trans-unit id="Table 632600948 - Field 3016667202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Item No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Group Items - Field:Parent Item No.</note>
+        </trans-unit>
+        <trans-unit id="Table 632600948 - Field 536865280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Of Measure Code.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Group Items - Field:Unit Of Measure Code.</note>
+        </trans-unit>
+        <trans-unit id="Table 632600948 - Field 3949794956 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Child Item No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Group Items - Field:Child Item No.</note>
+        </trans-unit>
+        <trans-unit id="Table 632600948 - Field 1910172496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Enabled</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Group Items - Field:eShop Enabled</note>
+        </trans-unit>
+        <trans-unit id="Table 632600948 - Field 3648642163 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Decription</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Group Items - Field:Parent Decription</note>
+        </trans-unit>
+        <trans-unit id="Table 632600948 - Field 1194676592 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Child Description</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table:eShop Group Items - Field:Child Description</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1221547140 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No %1 does not exists.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Functions - GlobalVariable:Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1221547140 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No %1 does not exists.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Functions - GlobalVariable:Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1221547140 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order %1 does not exists.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Functions - GlobalVariable:Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1221547140 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coupon code is applied</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Functions - GlobalVariable:Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1221547140 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coupon code is invalid</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Functions - GlobalVariable:Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1221547140 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quote Number %1 does not exists.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Functions - GlobalVariable:Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1221547140 - NamedType 1624331795" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quote Request on %1</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Functions - GlobalVariable:Subjecttext</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1221547140 - NamedType 1416187677" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name: %1</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Functions - GlobalVariable:CustNametext</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1221547140 - NamedType 659559040" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contact No: %1</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Functions - GlobalVariable:ContactNotext</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1221547140 - NamedType 3921955888" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail: %1</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Functions - GlobalVariable:E-mailtext</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1221547140 - NamedType 3410721061" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address: %1</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Functions - GlobalVariable:Addresstext</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1221547140 - NamedType 3031619123" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer hs requested quote on the following items </source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Functions - GlobalVariable:ItemNoText</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1221547140 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Addtional Information</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Functions - GlobalVariable:Text007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1221547140 - NamedType 1940672225" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shimpment Alerts</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Functions - GlobalVariable:Text020</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1221547140 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hi</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Functions - GlobalVariable:Text008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1221547140 - NamedType 2524089106" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TextSCS</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Functions - GlobalVariable:SCSText000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1221547140 - Method 787042659 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No %1 Does Not Exist</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Functions - LocalVariable:Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your %1 Order Was Shipped. %2</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - GlobalVariable:Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order %1 does not exists.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - GlobalVariable:Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price is Zero, Due you still want to enable?</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - GlobalVariable:Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Category ID is blank, Due you still want to enable?'</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - GlobalVariable:Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Push the Publish Button</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - GlobalVariable:Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Push the Update Button</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - GlobalVariable:Text007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EMail doesn't exist for one or more customers</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - GlobalVariable:Text008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to create E-shop User</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - GlobalVariable:Text009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - NamedType 2524089106" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scs</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - GlobalVariable:SCSText000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 3253447864 - NamedType 3721534664" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New User Created.\User ID: %1</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 3398546988 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 3398546988 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Body</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text013</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 3398546988 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HI  %1,</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 3398546988 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your %1 online order has shipped.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 3398546988 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipping Details:</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 3398546988 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Details:</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 3398546988 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your order's approximate delivery time frame  %1  is 5-10 business days.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text011</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 3398546988 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If you have any questions or concerns please contact our Consumer Relations department at 800.344.2229 Monday through Friday from 8am to 5pm Pacific Standard Time. </source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text012</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 3398546988 - NamedType 4214926420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Thank you for your order and have a wonderful day! </source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text014</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 3398546988 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipping Details</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 3398546988 - NamedType 834188014" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Via</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text025</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 3398546988 - NamedType 3216065459" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method Code : </source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text026</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 2016290936 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coupon Start Date = %1\Document Date = %2</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 2016290936 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coupon End Date = %1\Document Date = %2</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 3220395239 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description too large Contact the programmer.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 2800167359 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description too large Contact the programmer.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 84659375 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description too large Contact the programmer.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 737821562 - NamedType 180380182" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All Files (*.*)|*.*</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:AllFilesDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 560553375 - Method 1624099417 - NamedType 180380182" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All Files (*.*)|*.*</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Methods - LocalVariable:AllFilesDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2246036561 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 is less than %2 in the %3.</source>
+          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2">ESM = %1 es menor que %2 en el %3.,FRC = %1 est inférieur à %2 dans le %3.,ENC = %1 is less than %2 in the %3.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eSHop Sales Price Calc. Mgt. - GlobalVariable:Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2246036561 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prices including VAT cannot be calculated when %1 is %2.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eSHop Sales Price Calc. Mgt. - GlobalVariable:Text010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2246036561 - NamedType 857534312" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 is greater than %3 and was adjusted to %4.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eSHop Sales Price Calc. Mgt. - GlobalVariable:Text018</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2246036561 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The %1 in the %2 must be same as in the %3.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eSHop Sales Price Calc. Mgt. - GlobalVariable:Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3542429035 - NamedType 2646378131" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Thank you for downloading eShop for Business Central. Register with us to start your free trial.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Notification Mgmt. - GlobalVariable:GetStarterTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3542429035 - NamedType 3352098233" size-unit="char" translate="yes" xml:space="preserve">
+          <source>9E0237A2-13DD-4730-8E0C-527616B826E0</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Notification Mgmt. - GlobalVariable:GuidTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3542429035 - NamedType 3524476686" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No, thanks</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Notification Mgmt. - GlobalVariable:NoThanksTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3542429035 - NamedType 917845545" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Account Registration</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Notification Mgmt. - GlobalVariable:RunStartupWizardTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3542429035 - NamedType 4081287685" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Account Registration wizard notification.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Notification Mgmt. - GlobalVariable:StartupWizardNotificationTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3542429035 - NamedType 1561281386" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Setup</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:eShop Notification Mgmt. - GlobalVariable:eShopSetupTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 1509522812 - Control 4175555011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ItemVariants</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Item Card - Control:ItemVariants</note>
+        </trans-unit>
+        <trans-unit id="Page 1509522812 - Control 710352022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ItemVariantOptions</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Item Card - Control:ItemVariantOptions</note>
+        </trans-unit>
+        <trans-unit id="Page 342970125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Sales Quote</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Sales Quote - Page:eShop Sales Quote</note>
+        </trans-unit>
+        <trans-unit id="Page 342970125 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Sales Quote - Control:General</note>
+        </trans-unit>
+        <trans-unit id="Page 342970125 - Control 2131962646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to State / ZIP Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Sales Quote - Control:Sell-to County</note>
+        </trans-unit>
+        <trans-unit id="Page 342970125 - Control 2877945414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Sales Quote - Control:Purchase Order No.</note>
+        </trans-unit>
+        <trans-unit id="Page 342970125 - Control 3882955433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>State / ZIP Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Sales Quote - Control:Bill-to County</note>
+        </trans-unit>
+        <trans-unit id="Page 342970125 - Control 187607738 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to State / ZIP Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Sales Quote - Control:Ship-to County</note>
+        </trans-unit>
+        <trans-unit id="Page 342970125 - Control 3624777196 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Foreign Trade</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Sales Quote - Control:Foreign Trade</note>
+        </trans-unit>
+        <trans-unit id="Page 342970125 - Control 3312303423 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Commerce</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Sales Quote - Control:E-Commerce</note>
+        </trans-unit>
+        <trans-unit id="Page 342970125 - Control 503024588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Comments</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Sales Quote - Control:Comments</note>
+        </trans-unit>
+        <trans-unit id="Page 1851359279 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You can not use the Explode BOM function because a prepayment of the sales order has been invoiced.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Sales Order Subform - GlobalVariable:Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 2215091118 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Ledger Entries</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Customer Transactions - Page:eShop Customer Transactions</note>
+        </trans-unit>
+        <trans-unit id="Page 2273225006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Setup Card</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Setup Card - Page:eShop Setup Card</note>
+        </trans-unit>
+        <trans-unit id="Page 2273225006 - Control 164232318 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Service URL</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Setup Card - Control:D365 Web Service URL</note>
+        </trans-unit>
+        <trans-unit id="Page 2273225006 - Action 4084512119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run Default Setup</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Setup Card - Action:Run Default Setup</note>
+        </trans-unit>
+        <trans-unit id="Page 515194159 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Category List</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Categories List - Page:eShop Categories List</note>
+        </trans-unit>
+        <trans-unit id="Page 2187561221 - NamedType 1821279055" size-unit="char" translate="yes" xml:space="preserve">
+          <source>http://krussell.dyndns.org/ViewStat.aspx?StatValue=99057e0b-443d-401e-9f3e-8aa956c0bd46&amp;StartedFromClient=</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Browser AddIn - GlobalVariable:Text</note>
+        </trans-unit>
+        <trans-unit id="Page 2187561221 - NamedType 3721534664" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Yes&amp;ShowQuota=&amp;mStatValue1=&amp;mStatValue2=&amp;mStatValue3=&amp;mStatValue4=&amp;mStatValue5=&amp;mStatValue6=</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Browser AddIn - GlobalVariable:Text1</note>
+        </trans-unit>
+        <trans-unit id="Page 2187561221 - NamedType 64263985" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;StatEndDate=12/18/2011&amp;Frequency=WeeklyShowingWeekly&amp;NumOfIntervals=13&amp;Anim=TrendLines=False</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Browser AddIn - GlobalVariable:Text2</note>
+        </trans-unit>
+        <trans-unit id="Page 4003213239 - NamedType 1821279055" size-unit="char" translate="yes" xml:space="preserve">
+          <source>http://krussell.dyndns.org/ViewStat.aspx?StatValue=99057e0b-443d-401e-9f3e-8aa956c0bd46&amp;StartedFromClient=</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Browser - GlobalVariable:Text</note>
+        </trans-unit>
+        <trans-unit id="Page 4003213239 - NamedType 3721534664" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Yes&amp;ShowQuota=&amp;mStatValue1=&amp;mStatValue2=&amp;mStatValue3=&amp;mStatValue4=&amp;mStatValue5=&amp;mStatValue6=</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Browser - GlobalVariable:Text1</note>
+        </trans-unit>
+        <trans-unit id="Page 4003213239 - NamedType 64263985" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;StatEndDate=12/18/2011&amp;Frequency=WeeklyShowingWeekly&amp;NumOfIntervals=13&amp;Anim=TrendLines=False</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Browser - GlobalVariable:Text2</note>
+        </trans-unit>
+        <trans-unit id="Page 2669533112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Coupon Setup List</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Coupon Setup List - Page:eShop Coupon Setup List</note>
+        </trans-unit>
+        <trans-unit id="Page 79877270 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please Select Product from the list</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop All in One Publish - GlobalVariable:Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 79877270 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please Select Category from the list</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop All in One Publish - GlobalVariable:Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 79877270 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please Select User from the list</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop All in One Publish - GlobalVariable:Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 4294362904 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are non posted Prepayment Amounts on %1 %2.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Order - GlobalVariable:Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 4294362904 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are unpaid Prepayment Invoices related to %1 %2. Do you wish to continue?</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Order - GlobalVariable:Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 3483452866 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unable to run this function while in View mode.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Order Subform - GlobalVariable:Text000</note>
+        </trans-unit>
+        <trans-unit id="Page 3483452866 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot use the Explode BOM function because a prepayment of the purchase order has been invoiced.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Order Subform - GlobalVariable:Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 2326726652 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Variants</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Item Variants - Page:eShop Item Variants</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Account Registration</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - Page:eShop Wizard</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Control 1594287855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Setup Wizard</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - Control:eShop Setup Wizard</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Control 1594287855 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Welcome to the eShop Account Registration Wizard. Please submit the form with all the required fields. We use this information to generate URLs for a new test website that integrates with your Dynamics 365 Business Central.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - Control:eShop Setup Wizard</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Control 3412051521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - Control:Group1000000009</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Control 3412051521 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The information we gather from this page will be used to communicate with you and to setup your account with us.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - Control:Group1000000009</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Control 1285973296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - Control:Email</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Control 219949166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirm E-Mail</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - Control:CnfmEmail</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Control 3814079 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business Central URL</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - Control:Dynamics 365 URL</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Control 2378863201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contact Name</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - Control:Contact Name</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Control 78005711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - Control:Group1000000012</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Control 78005711 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - Control:Group1000000012</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Control 3904185413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - Control:Group1000000014</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Control 3904185413 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Thank you for taking time to fill out the form. You'll receive an email confirmation from Dynamics eShop on the email id provided to us within 24 hours. The email will contain necessary links to complete the Installation and setup. If you don't receive an email from us, please reach out to our Customer Service team @ 1888 631 1148.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - Control:Group1000000014</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Action 2438272767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - Action:ActionBack</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Action 914282563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - Action:ActionNext</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Action 1864357022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Submit</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - Action:ActionSubmit</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Action 3259912055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finish</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - Action:ActionFinish</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The SMTP mail system returned the following error: "%1".</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - GlobalVariable:Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - NamedType 2951775720" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In order to use Address Verification we must establish a link to our servers. We will ask you for some information that is required and some that is optional and is usefull to us in order to support you better.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - GlobalVariable:text001</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 Applicant (%1) Details...</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - GlobalVariable:Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mail From Dynamics eShop Inc.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - GlobalVariable:Text004</note>
+        </trans-unit>
+        <trans-unit id="Page 2733762486 - Method 2805992183 - NamedType 3589810618" size-unit="char" translate="yes" xml:space="preserve">
+          <source>https://sendd365bcemail.azurewebsites.net/api/EmailAzure?code=UXisovWLRZYzVQmlg7AR5JBQbdrOupDYLFmW8/OUoSGm79AqPe2U9A==&amp;Email=%1&amp;Url=%2&amp;Name=%3&amp;Phone=%4&amp;CompanyName=%5&amp;Address=%6&amp;Address2=%7&amp;City=%8&amp;State=%9&amp;Zip=%10&amp;CountryCode=%11&amp;Comments=%12</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Wizard - LocalVariable:URLText</note>
+        </trans-unit>
+        <trans-unit id="Page 2285329191 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code you want to use for the manufacturer.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Manufacturers - Control:Code</note>
+        </trans-unit>
+        <trans-unit id="Page 2285329191 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the manufacturer.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Manufacturers - Control:Name</note>
+        </trans-unit>
+        <trans-unit id="Page 4143281348 - Control 2271041335 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the item that can be used as a substitute in case the original item is unavailable.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Item Substitutions - Control:Substitute No.</note>
+        </trans-unit>
+        <trans-unit id="Page 4143281348 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of the substitute item.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Item Substitutions - Control:Description</note>
+        </trans-unit>
+        <trans-unit id="Page 4143281348 - Control 801859884 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that the item and the substitute item are interchangeable.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Item Substitutions - Control:Interchangeable</note>
+        </trans-unit>
+        <trans-unit id="Page 4143281348 - Control 696389717 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that a condition exists for this substitution.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Item Substitutions - Control:Condition</note>
+        </trans-unit>
+        <trans-unit id="Page 105177868 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Approve,"Request Approval"</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote - Page:eShop Purchase Quote</note>
+        </trans-unit>
+        <trans-unit id="Page 105177868 - Control 305562489 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the tax area code used for this purchase to calculate and post sales tax.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote - Control:Tax Area Code</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the line type.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Type</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of a general ledger account, item, additional cost, or fixed asset, depending on what you selected in the Type field.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:No.</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 2168672665 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the cross-reference number for this item.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Cross-Reference No.</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 3450651614 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a variant code for the item.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Variant Code</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 1986218713 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that this item is a nonstock item.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Nonstock</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 236064653 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for the tax product posting group of the item or general ledger account on this line.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:VAT Prod. Posting Group</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the entry, depending on what you chose in the Type field.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Description</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for the location where the items on the line will be located.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Location Code</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of units of the item that will be specified on the line.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Quantity</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 2385270358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the unit of measure code that is valid for the purchase line.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Unit of Measure Code</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 1920046521 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the unit of measure for the item, such as 1 bottle or 1 piece.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Unit of Measure</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 4187992892 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the direct cost of one item unit.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Direct Unit Cost</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 3299657368 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the item's indirect cost percentage.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Indirect Cost %</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 68186622 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the unit cost of the item on the line.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Unit Cost (LCY)</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 1708449288 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the price for one unit of the item.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Unit Price (LCY)</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 3582421358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the net amount (excluding the invoice discount amount) of the line, in the currency of the purchase document.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Line Amount</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 1650118938 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the sum of the amounts in the Amount Including Tax fields on the associated purchase lines.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Amount Including VAT</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 2702998682 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the line discount percentage that is valid for the item on the line.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Line Discount %</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 1206454073 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount of the line discount that will be granted on the purchase line.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Line Discount Amount</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 3222158277 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether the invoice line is included when the invoice discount is calculated.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Allow Invoice Disc.</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 65364031 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that you can assign item charges to this line.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Allow Item Charge Assignment</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 2205552060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the quantity of the item charge that will be assigned when you post this line.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Qty. to Assign</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 2607956334 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how much of the item charge that has been assigned.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Qty. Assigned</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 851830778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the production order that the purchase order was created for.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Prod. Order No.</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 3299467854 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document number of the blanket order from which this purchase line originates.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Blanket Order No.</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 763268384 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the line number of the blanket order line from which this purchase line originates.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Blanket Order Line No.</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 3244334840 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the item ledger entry number the line should be applied to.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Appl.-to Item Entry</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 1577567912 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the dimension value code linked to the purchase.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Shortcut Dimension 1 Code</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 1003760969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the dimension value code linked to the purchase.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Shortcut Dimension 2 Code</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 3104584724 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a discount amount that is deducted from the value in the Total Incl. Tax field.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Invoice Discount Amount</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 2736020133 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a discount percentage that is granted if criteria that you have set up for the customer are met.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Invoice Disc. Pct.</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 4231276579 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the sum of the value in the Line Amount Excl. Tax field on all lines in the document, minus any discount amount in the Invoice Discount Amount field.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Total Amount Excl. VAT</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 1658561743 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the sum of tax amounts on all lines in the document.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Total VAT Amount</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Control 1153710285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the sum of the value in the Line Amount Incl. Tax field on all lines in the document, minus any discount amount in the Invoice Discount Amount field.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Control:Total Amount Incl. VAT</note>
+        </trans-unit>
+        <trans-unit id="Page 1036687702 - Action 2173385693 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit dimensions, such as area, project, or department, that you can assign to sales and purchase documents to distribute costs and analyze transaction history.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Purchase Quote Subform - Action:Dimensions</note>
+        </trans-unit>
+        <trans-unit id="Page 905529946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Item List</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Item List - Page:eShop Item List</note>
+        </trans-unit>
+        <trans-unit id="Page 905529946 - Action 367086139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Publish</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Item List - Action:Publish</note>
+        </trans-unit>
+        <trans-unit id="Page 905529946 - Action 642782499 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Item List - Action:Update</note>
+        </trans-unit>
+        <trans-unit id="Page 905529946 - Action 2280170937 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Preview Item</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Item List - Action:Preview Item</note>
+        </trans-unit>
+        <trans-unit id="Page 905529946 - Action 565978619 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Item</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page:eShop Item List - Action:Edit Item</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop One Click Install</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - Report:eShop One Click Install</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - Control 2321006591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Setup</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - Control:SetWerbService</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - Control 2024485347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Categories</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - Control:InsertCategories</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - Control 2183257849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Categories</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - Control:UpdateCategories</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - Control 1973560739 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Items</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - Control:InsertItems</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - Control 1873368169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Items</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - Control:UpdateItems</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - Control 1513394530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Users</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - Control:CreateUsers</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - Control 378011199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Users</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - Control:InsertUsers</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - Control 2118953517 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Users</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - Control:UpdateUsers</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - Control 3571555428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Manufact</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - Control:InsertManufact</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - Control 1329623262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync Orders</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - Control:Sync Orders</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setting Up Web Services</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - GlobalVariable:Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inserting Categories</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - GlobalVariable:Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Updating Categories</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - GlobalVariable:Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inserting Items</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - GlobalVariable:Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Updating Items</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - GlobalVariable:Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inserting Users</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - GlobalVariable:Text006</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Updating Users</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - GlobalVariable:Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creating Users</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - GlobalVariable:Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 864664846 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inserting Manufacturers</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report:eShop One Click Install - GlobalVariable:Text009</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1778020830 - Control 3057447456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Shipping Method</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopShipmentMethodPageExtn - Control:eShop Shipping Method</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2517657303 - Control 1165234418 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>B2C Customer</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopCustomerCardPageExtn - Control:eShop B2C Customer</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Control 1910172496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Enabled</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Control:eShop Enabled</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Control 3686123128 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Category ID</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Control:eShop Category ID</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Control 2585418950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manufacturer Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Control:Manufacturer Code</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Control 3041953176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop ID</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Control:eShop ID</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Control 3790329760 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Featured Item</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Control:eShop Featured Item</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Control 3048558377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Free Shipping</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Control:eShop Free Shipping</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Control 2559508205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Shipping Allowed</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Control:eShop Shipping Allowed</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Control 2364997229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture Name 1</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Control:eShop Picture Name 1</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Control 1727300612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture Name 2</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Control:eShop Picture Name 2</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Control 1089603995 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture Name 3</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Control:eShop Picture Name 3</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Action 597888262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Action:eShop Process</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Action 2344764164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Publish</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Action:eShop Publish</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Action 2025889396 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Action:eShop Update</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Action 3016709802 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Preview Item</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Action:eShop Preview Item</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Action 980463508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Item</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Action:eShop Edit Item</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Action 1089601409 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert All</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Action:eShop Insert All</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Action 3933655379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Specifications</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Action:eShop Item Specification</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Action 2207525580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Variations</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Action:eShop Item Variantions</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Action 1633627299 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Variations TO Variants</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Action:eShop Item Variations TO Variants</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2172291232 - Action 3257185779 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Variants TO Variations</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopItemCardPageExtn - Action:eShop Item Variants TO Variations</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 852885981 - Control 2490639263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Option Group</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopAssemblyBomPageExtn - Control:eShop Option Group</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4045063353 - Control 1372989193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Order</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesQuotePageExtn - Control:eShop Web Order</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3657572429 - Control 2727941026 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Login Email</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesOrderPageExtn - Control:eShop Login Email</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3657572429 - Control 4250456825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Paid With</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesOrderPageExtn - Control:eShop Paid With</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3657572429 - Control 1274577840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipped Via</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesOrderPageExtn - Control:eShop Shipped Via</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3657572429 - Control 510663603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web CC</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesOrderPageExtn - Control:eShop Web CC</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3657572429 - Control 3600796038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CC Expiration Month</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesOrderPageExtn - Control:eShop CC Expiration Month</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3657572429 - Control 4154536495 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CC Expiration Year</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesOrderPageExtn - Control:eShop CC Expiration Year</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3657572429 - Control 3997567479 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CC Card Type</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesOrderPageExtn - Control:eShop CC Card Type</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3657572429 - Control 810782476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CC Cvv2</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesOrderPageExtn - Control:eShop CC Cvv2</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3657572429 - Control 1372989193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Order</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesOrderPageExtn - Control:eShop Web Order</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3657572429 - Action 597888262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesOrderPageExtn - Action:eShop Process</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3657572429 - Action 1510044170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Assembly Orders</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesOrderPageExtn - Action:eShop Create Assembly Orders</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 632967344 - Action 27818083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesSubFormExtn - Action:eShop</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 632967344 - Action 2390138397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Preview Options</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesSubFormExtn - Action:eShop Preview Options</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3548844061 - Control 4265257688 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Payment Method</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopPaymentMethodsPageExtn - Control:eShop Payment Method</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 215615495 - Control 3057447456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Shipping Method</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopShippingAgentsPageExtn - Control:eShop Shipping Method</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1466995501 - Control 35068835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Enabled</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopIUOMPageExtn - Control:eShop Published</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1840780337 - Action 27818083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesManagerRCPageExtn - Action:eShop</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1840780337 - Action 4216602825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Account &amp;Registration</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesManagerRCPageExtn - Action:eShop Account &amp;Registration</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1840780337 - Action 2273225006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Setup Card</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesManagerRCPageExtn - Action:eShop Setup Card</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1840780337 - Action 1041911005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Help Site</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSalesManagerRCPageExtn - Action:eShop Help Site</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4142163623 - Action 4216602825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Account &amp;Registration</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopOrderPrssorRCPageExtn - Action:eShop Account &amp;Registration</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4142163623 - Action 2273225006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Setup Card</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopOrderPrssorRCPageExtn - Action:eShop Setup Card</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4142163623 - Action 1041911005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Help Site</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopOrderPrssorRCPageExtn - Action:eShop Help Site</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1609083112 - Action 4216602825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Account &amp;Registration</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopBusinessMngrRCPageExtn - Action:eShop Account &amp;Registration</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1609083112 - Action 2273225006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Setup Card</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopBusinessMngrRCPageExtn - Action:eShop Setup Card</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1609083112 - Action 1041911005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Help Site</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopBusinessMngrRCPageExtn - Action:eShop Help Site</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2202853215 - Action 4216602825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Account &amp;Registration</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSecurityAdminRCPageExtn - Action:eShop Account &amp;Registration</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2202853215 - Action 2273225006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Setup Card</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSecurityAdminRCPageExtn - Action:eShop Setup Card</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2202853215 - Action 1041911005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Help Site</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopSecurityAdminRCPageExtn - Action:eShop Help Site</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2193954122 - Action 4216602825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Account &amp;Registration</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopAccountantRCPageExtn - Action:eShop Account &amp;Registration</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2193954122 - Action 2273225006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Setup Card</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopAccountantRCPageExtn - Action:eShop Setup Card</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2193954122 - Action 1041911005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Help Site</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension:eSHopAccountantRCPageExtn - Action:eShop Help Site</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1850276923 - Field 3057447456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Shipping Method</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eShopShipmentMethodExtn - Field:eShop Shipping Method</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3954806287 - Field 1165234418 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop B2C Customer</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopCustomerTabExtn - Field:eShop B2C Customer</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1640337184 - Field 1910172496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Enabled</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemTabExtn - Field:eShop Enabled</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1640337184 - Field 3686123128 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Category ID</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemTabExtn - Field:eShop Category ID</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1640337184 - Field 3790329760 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Featured Item</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemTabExtn - Field:eShop Featured Item</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1640337184 - Field 2559508205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Shipping Allowed</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemTabExtn - Field:eShop Shipping Allowed</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1640337184 - Field 3048558377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Free Shipping</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemTabExtn - Field:eShop Free Shipping</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1640337184 - Field 3862174972 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Additional Shipping Charge</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemTabExtn - Field:eShop Additional Shipping Charge</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1640337184 - Field 1615791479 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Tax Exempt</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemTabExtn - Field:eShop Tax Exempt</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1640337184 - Field 3041953176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop ID</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemTabExtn - Field:eShop ID</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1640337184 - Field 2364997229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Picture Name 1</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemTabExtn - Field:eShop Picture Name 1</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1640337184 - Field 1727300612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Picture Name 2</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemTabExtn - Field:eShop Picture Name 2</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1640337184 - Field 1089603995 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Picture Name 3</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemTabExtn - Field:eShop Picture Name 3</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 1372989193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Order</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Web Order</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 2727941026 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Login Email</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Login Email</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 2422604802 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Shopping Cart No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Shopping Cart No.</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 1193192356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Web Order No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Web Order No.</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 240515762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Web Order No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop NAV Shipping Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 3855779435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Web Order No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop NAV Tax Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 437098836 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Discount Amount</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Discount Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 3097331753 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Shipping Amount</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Shipping Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 299566828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Tax Amount</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Tax Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 4250456825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Paid With</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Paid With</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 1423977042 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Transaction Reference</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Transaction Reference</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 1274577840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Shipped Via</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Shipped Via</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 1171978271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Coupon Code 1</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Coupon Code 1</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 1507015195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Coupon Code 1 Amount</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Coupon Code 1 Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 3085068122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Coupon Code 2</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Coupon Code 2</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 346352270 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Coupon Code 2 Amount</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Coupon Code 2 Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 1913029129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Gift Card 1 No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Gift Card 1 No.</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 3260319664 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Gift Card 1 Amount</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Gift Card 1 Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 1810872384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Gift Card 2 No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Gift Card 2 No.</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 1379517473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Gift Card 2 Amount</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Gift Card 2 Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 510663603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Web CC</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Web CC</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 3600796038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop CC Expiration Month</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop CC Expiration Month</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 4154536495 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop CC Expiration Year</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop CC Expiration Year</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 3997567479 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop CC Card Type</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop CC Card Type</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 3997567479 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Visa,MasterCard,Amex,Discover</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop CC Card Type</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 810782476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop CC Cvv2</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop CC Cvv2</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 3192684498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Web CC Name</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Web CC Name</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 283400377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Web CC Encrypted</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Web CC Encrypted</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 1716325960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Coupon Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Coupon Code</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3571034475 - Field 360046320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Shipping Line No</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesHeaderExtn - Field:eShop Shipping Line No</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3478978161 - Field 299566828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Tax Amount</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesLineTabExtn - Field:eShop Tax Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3478978161 - Field 695542140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Item Disc. Group</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesLineTabExtn - Field:eShop Item Disc. Group</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3478978161 - Field 3686123128 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Category ID</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesLineTabExtn - Field:eShop Category ID</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3478978161 - Field 337172413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop AttributeDescription</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesLineTabExtn - Field:eShop AttributeDescription</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3478978161 - Field 2662503600 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop AttributeXML</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesLineTabExtn - Field:eShop AttributeXML</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3478978161 - Field 868932253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Kit Option Group</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesLineTabExtn - Field:eShop Kit Option Group</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2658186128 - Field 348594523 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IsCartDescription</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesCommentLineTabExtn - Field:eShop IsCartDescription</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3343243866 - Field 2490639263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Option Group</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopBomComponentTabExtn - Field:eShop Option Group</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 1372989193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Web Order</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Web Order</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 2727941026 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Login Email</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Login Email</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 2422604802 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Shopping Cart No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Shopping Cart No.</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 1193192356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Web Order No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Web Order No.</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 240515762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Web Order No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop NAV Shipping Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 3855779435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Web Order No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop NAV Tax Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 437098836 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Discount Amount</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Discount Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 3097331753 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Shipping Amount</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Shipping Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 299566828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Tax Amount</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Tax Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 4250456825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Paid With</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Paid With</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 1423977042 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Transaction Reference</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Transaction Reference</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 1274577840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Shipped Via</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Shipped Via</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 1171978271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Coupon Code 1</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Coupon Code 1</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 1507015195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Coupon Code 1 Amount</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Coupon Code 1 Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 3085068122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Coupon Code 2</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Coupon Code 2</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 346352270 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Coupon Code 2 Amount</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Coupon Code 2 Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 1913029129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Gift Card 1 No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Gift Card 1 No.</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 3260319664 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Gift Card 1 Amount</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Gift Card 1 Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 1810872384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Gift Card 2 No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Gift Card 2 No.</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 1379517473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Gift Card 2 Amount</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Gift Card 2 Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 510663603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Web CC</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Web CC</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 3600796038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop CC Expiration Month</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop CC Expiration Month</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 4154536495 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop CC Expiration Year</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop CC Expiration Year</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 3997567479 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop CC Card Type</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop CC Card Type</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 3997567479 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Visa,MasterCard,Amex,Discover</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop CC Card Type</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 810782476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop CC Cvv2</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop CC Cvv2</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 3192684498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Web CC Name</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Web CC Name</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 283400377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Web CC Encrypted</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Web CC Encrypted</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4275828273 - Field 1716325960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Coupon Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceHeaderTabExtn - Field:eShop Coupon Code</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4091204418 - Field 299566828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Tax Amount</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceLineTabExtn - Field:eShop Tax Amount</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4091204418 - Field 695542140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Item Disc. Group</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceLineTabExtn - Field:eShop Item Disc. Group</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4091204418 - Field 3686123128 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Category ID</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceLineTabExtn - Field:eShop Category ID</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4091204418 - Field 337172413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop AttributeDescription</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceLineTabExtn - Field:eShop AttributeDescription</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4091204418 - Field 2662503600 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop AttributeXML</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceLineTabExtn - Field:eShop AttributeXML</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4091204418 - Field 868932253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Kit Option Group</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopSalesInvoiceLineTabExtn - Field:eShop Kit Option Group</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1303857056 - Field 4265257688 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Payment Method</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopPaymentMethodTabExtn - Field:eShop Payment Method</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 587752406 - Field 3057447456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Shipping Method</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopShippingAgentTabExtn - Field:eShop Shipping Method</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2169380251 - Field 2490639263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Option Group</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopAssemblyLineTabExtn - Field:eShop Option Group</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2169380251 - Field 1389896687 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Option No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopAssemblyLineTabExtn - Field:eShop Option No.</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2169380251 - Field 958890201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Document Line No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopAssemblyLineTabExtn - Field:eShop Document Line No.</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1945471597 - Field 3968578912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Attribute 1</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemVariantTabExtn - Field:eShop Attribute 1</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1945471597 - Field 311308233 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Attribute 2</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemVariantTabExtn - Field:eShop Attribute 2</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1945471597 - Field 949004850 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Attribute 3</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemVariantTabExtn - Field:eShop Attribute 3</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1945471597 - Field 1016235612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Block</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemVariantTabExtn - Field:eShop Block</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1945471597 - Field 1586701467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Attribute 4</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemVariantTabExtn - Field:eShop Attribute 4</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1945471597 - Field 2224398084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Attribute 5</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemVariantTabExtn - Field:eShop Attribute 5</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1945471597 - Field 2862094701 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Attribute 6</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemVariantTabExtn - Field:eShop Attribute 6</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1945471597 - Field 2390103053 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Web Item No.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopItemVariantTabExtn - Field:eShop Web Item No.</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3891138121 - Field 35068835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>eShop Published</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:eSHopIUOMTabExtn - Field:eShop Published</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
